@@ -1,7 +1,7 @@
 ---
 permalink: /home/
 title: "aaDH"
-author: "aaDH"
+author: aaDH
 ---
 
 The Australasian Association for Digital Humanities Inc (aaDH) was formed in March 2011 to strengthen the digital humanities research community in Australia, Aotearoa New Zealand and the Pacific and is a member of the international [Alliance of Digital Humanities Organisations (ADHO)](https://adho.org/).

@@ -1,7 +1,7 @@
 ---
 title: "Resources"
 permalink: /resources/
-author: "aaDH"
+author: aaDH
 ---
 
 ##### Digital Humanities Associations
