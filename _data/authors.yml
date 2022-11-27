@@ -1,0 +1,36 @@
+# /_data/authors.yml
+
+SAR:
+  name   : "Shawn Ross"
+  bio    : "Executive Committee Member-at-Large"
+  avatar : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://orcid.org/0000-0002-6492-9025"
+    # - label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/saross/"
+    # - label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/"
+
+aaDH:
+  name  : "aaDH"
+  bio   : "Australasian Association for Digital Humanities"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: ""
+    # - label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/aaDH-web/"
+    # - label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/"
