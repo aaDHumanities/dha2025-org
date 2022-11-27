@@ -5,7 +5,7 @@ main:
     url: /about/
   - title: "Join"
     url: /join/
-  - title: "Resources"
-    url: /resources/
   - title: "Recent posts"
     url: /posts/
+  - title: "Resources"
+    url: /resources/
