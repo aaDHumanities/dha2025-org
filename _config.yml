@@ -70,6 +70,8 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# For Authors see /_data/authors.yml
+
 footer:
   links:
     - label: "Twitter"
