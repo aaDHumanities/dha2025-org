@@ -1,12 +1,11 @@
 main:
-
   - title: "Home"
     url: /home/
   - title: "About"
     url: /about/
   - title: "Join"
-     url: /join/
+    url: /join/
   - title: "Resources"
-     url: /resources/
+    url: /resources/
   - title: "Recent posts"
     url: /posts/
