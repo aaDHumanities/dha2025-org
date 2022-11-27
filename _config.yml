@@ -13,21 +13,32 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+title               : "Australasian Association of Digital Humanities"
+subtitle            : "Promoting digital humanities research in Australia, Aotearoa New Zealand, and the Pacific"
+title_separator     : "-"
+subtitle            : "Promoting digital humanities research in Australia, Aotearoa New Zealand, and the Pacific"
+name                : "Shawn Ross"
+email               : ""
+description: >- # this means to ignore newlines until "locale:"
+  The website of the Australasian Association for Digital Humanities (aaDH), 
+  promoting digital humanities research in Australia, Aotearoa New Zealand, 
+  and the Pacific.
+locale              : "en-AU"
+url                 : "https://https://aadh-web.github.io/website/"
+baseurl             : # the subpath of your site, e.g. "/blog"
+repository          : "aaDH-web/website"
+teaser              : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                : "/assets/images/aaDH-small.png"
+masthead_title      : # overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs       : false # true, false (default)
+twitter_username    : aaDHumanities
+github_username     : aaDH-web
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Outputting
 permalink: /:categories/:title/
@@ -58,21 +69,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
-# Site Settings
-locale                   : "en-AU"
-title                    : "Australasian Association of Digital Humanities"
-title_separator          : "-"
-subtitle                 : "Promoting digital humanities research in Australia, Aotearoa New Zealand, and the Pacific"
-name                     : "Shawn Ross"
-description              : "Website for the Australasian Association for Digital Humanities Incorporated (aaDH)."
-url                      : "https://https://aadh-web.github.io/website/"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "aaDH-web/website"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/aaDH-small.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
 
 author:
   name   : "Shawn Ross"
