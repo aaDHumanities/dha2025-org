@@ -16,7 +16,6 @@
 title               : "Australasian Association of Digital Humanities"
 subtitle            : "Promoting digital humanities research in Australia, Aotearoa New Zealand, and the Pacific"
 title_separator     : "-"
-subtitle            : "Promoting digital humanities research in Australia, Aotearoa New Zealand, and the Pacific"
 name                : "Shawn Ross"
 email               : ""
 description: >- # this means to ignore newlines until "locale:"
@@ -101,8 +100,9 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
-      author_profile: true
+      layout: splash
+      classes: wide
+      author_profile: false
 
 category_archive:
   type: liquid

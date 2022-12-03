@@ -1,7 +1,15 @@
 ---
-permalink: /home/
+permalink: /
 title: "aaDH"
 author: aaDH
+excerpt: "This post should [...]"
+header:
+  overlay_image: /assets/images/Sinclair-2016-figure4.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "Lastest news"
+      url: "/posts/"
 ---
 
 The Australasian Association for Digital Humanities Inc (aaDH) was formed in March 2011 to strengthen the digital humanities research community in Australia, Aotearoa New Zealand and the Pacific and is a member of the international [Alliance of Digital Humanities Organisations (ADHO)](https://adho.org/).
