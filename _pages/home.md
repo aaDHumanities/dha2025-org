@@ -1,19 +1,21 @@
 ---
 permalink: /
-title: "aaDH"
+title: "Australasian Association for Digital Humanities"
 author: aaDH
-excerpt: "This post should [...]"
+excerpt: "Promoting digital humanities research in Australia, Aotearoa New Zealand, and the Pacific"
 header:
   overlay_image: /assets/images/Sinclair-2016-figure4.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "[Sinclair 2016, figure 4: 'The network map of authors co-cited in archaeological research outputs' (CC-BY)](https://doi.org/10.11141/ia.42.8)"
   actions:
     - label: "Lastest news"
       url: "/posts/"
+layout: splash
+classes: wide
 ---
 
-The Australasian Association for Digital Humanities Inc (aaDH) was formed in March 2011 to strengthen the digital humanities research community in Australia, Aotearoa New Zealand and the Pacific and is a member of the international [Alliance of Digital Humanities Organisations (ADHO)](https://adho.org/).
+The Australasian Association for Digital Humanities Inc (aaDH) was formed in March 2011 to strengthen the digital humanities research community in Australia, Aotearoa New Zealand, and the Pacific. The aaDH is a member of the international [Alliance of Digital Humanities Organisations](https://adho.org/) (ADHO).
 
-The professional association acts to support and extend links between digital humanities researchers, improve professional development opportunities and provide international leverage for local projects and initiatives. aaDH organises the Digital Humanities Australasia [conference](https://aa-dh.org/conferences/) every two years and provides a range of other opportunities for fostering understanding of digital technologies in the humanities.
+This professional association acts to support and extend links between digital humanities researchers, improve professional development opportunities, and provide international leverage for local projects and initiatives. The aaDH organises the [Digital Humanities Australasia conference](/conferences/) every two years and provides other opportunities for fostering an understanding of digital technologies in the humanities.
 
-We invite you to [join](https://aa-dh.org/join/) our community by becoming a member of the association.
+We invite you to join our community by [becoming an aaDH member](/join/).

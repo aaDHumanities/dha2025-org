@@ -1,9 +1,44 @@
 # /_data/authors.yml
 
+aaDH:
+  name  : "aaDH"
+  bio   : "Australasian Association for Digital Humanities"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: ""
+    # - label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/aaDH-web/"
+    # - label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/"
+
+TB:
+  name   : "Tully Barnett"
+  bio    : "Vice-President"
+  # avatar : "/assets/images/"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://orcid.org/0000-0003-0269-5814"
+    # - label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
+    # - label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/saross/"
+    # - label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/"
+
 SAR:
   name   : "Shawn Ross"
   bio    : "Executive Committee Member-at-Large"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Web_Shawn-32-Edit.jpg"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -18,19 +53,20 @@ SAR:
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
 
-aaDH:
-  name  : "aaDH"
-  bio   : "Australasian Association for Digital Humanities"
+TS:
+  name   : "Tyne Sumner"
+  bio    : "Communications Manager"
+  # avatar : "/assets/images/"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: ""
+      url: "https://orcid.org/0000-0003-1717-7147"
     # - label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
     #  url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/aaDH-web/"
+    # - label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/saross/"
     # - label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"

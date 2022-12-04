@@ -5,5 +5,25 @@ main:
     url: /join/
   - title: "News"
     url: /posts/
+  - title: "Conferences"
+    url: /conferences/
   - title: "Resources"
     url: /resources/
+
+# 'About' sidebar
+
+about-nav:
+  - title: About the aaDH
+    children:
+      - title: "Sponsors & Affiliates"
+        url: /about/sponsors/
+      - title: "Aims"
+        url: /about/aims/
+      - title: "Executive Committee"
+        url: /about/exec/
+      - title: "ADHO Service"
+        url: /about/adho_service/
+      - title: "Contact"
+        url: /about/contact/
+      - title: "Web Archive"
+        url: /about/archive/
