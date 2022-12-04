@@ -2,6 +2,8 @@
 title: "Join aaDH"
 permalink: /join/
 author: aaDH
+author_profile: true
+
 ---
 
 [Membership](https://academic.oup.com/dsh/subscribe) Of the Australasian Association for Digital Humanities is by calendar year.

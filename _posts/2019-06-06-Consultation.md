@@ -3,10 +3,11 @@ title: "Future Humanities Workforce consultation"
 last_modified_at: 2019-06-06
 categories:
   - Post
+  - Consultation
 tags:
   - Engagement
   - Australian Academy of the Humanities
-  - Future Humanities workforce
+  - Future Humanities Workforce
 author: aaDH
 ---
 

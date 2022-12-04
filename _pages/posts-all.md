@@ -2,7 +2,7 @@
 title: "News"
 permalink: /posts/all/
 layout: posts
-author: aaDH
+author_profile: true
 sidebar:
   nav: "posts-nav"
 ---

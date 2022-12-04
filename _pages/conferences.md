@@ -6,7 +6,7 @@ sidebar:
   nav: "conference-nav"
 ---
 
-Beginning in 2012, the aaDH has hosted the *Digital Humanities Australasia* conference once every two years. This conference was due in 2020, but postponed due to COVID19. The conference will [resume in 2023](/conferences/dha2023).
+Beginning in 2012, the aaDH has hosted the *Digital Humanities Australasia* conference once every two years. 
 
 The [Alliance of Digital Humanities Organisations](https://adho.org/) also organises and sponsors an [annual international conference](https://adho.org/conference/), which may be of interest to aaDH members.
 
