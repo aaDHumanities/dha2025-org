@@ -3,6 +3,7 @@
 aaDH:
   name  : "aaDH"
   bio   : "Australasian Association for Digital Humanities"
+  # avatar : "/assets/images/"
   links:
     # - label: "Website"
     #  icon: "fas fa-fw fa-link"
