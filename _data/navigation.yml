@@ -23,7 +23,23 @@ about-nav:
         url: /about/exec/
       - title: "ADHO Service"
         url: /about/adho_service/
-      - title: "Contact"
-        url: /about/contact/
       - title: "Web Archive"
         url: /about/archive/
+      - title: "Contact"
+        url: /about/contact/
+
+conference-nav:
+    - title: aaDH Conferences
+      children:
+        - title: "DHA2023"
+          url: /conferences/dha2023/
+        - title: "DHA2018"
+          url: /conferences/dha2018/
+
+posts-nav:
+    - title: aaDH news
+      children:
+        - title: "All Posts"
+          url: /posts/all/
+        - title: "Posts by Tag"
+          url: /posts/tags/
