@@ -74,3 +74,21 @@ TS:
     # - label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
+
+SM:
+  name   : "Simon Musgrave"
+  bio    : "(Former) Communications Manager"
+  # avatar : "/assets/images/"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://orcid.org/0000-0003-3237-9943"
+    # - label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
+    # - label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/saross/"
+    # - label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/"
