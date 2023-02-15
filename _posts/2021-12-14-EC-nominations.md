@@ -19,35 +19,33 @@ The Executive Committee, as specified in the Rules of the association, consists 
 
 There are currently six vacancies to be filled with terms starting in 2022:
 
-Vice-President (3 years, 2022-24)\
-Communications Manager (3 years, 2022-24)
-
-Treasurer (2 years, 2022-23)\
-1 x Ordinary Member (3 years, 2022-24)
-
-2 x Ordinary Members (2 years, 2022-23)
+* Vice-President (3 years, 2022-24)
+* Communications Manager (3 years, 2022-24)
+* Treasurer (2 years, 2022-23)
+* 1 x Ordinary Member (3 years, 2022-24)
+* 2 x Ordinary Members (2 years, 2022-23)
 
 Nominations for these positions are now open.
 
 The Rules of the association relevant to this process are:
 
-25 Election of officers and ordinary members of the committee
-
-25.1 To be considered valid, nominations of candidates for election as officers of the association or as ordinary members of the committee must be
-
-25.1.1 made to the secretary by electronic transmission; and
-
-25.1.2 transmitted to the secretary not less than 7 days before the date fixed for the holding of the annual elections; and
-
-25.1.3 endorsed by at least one current officer of the association or ordinary member of the committee.
-
-25.2 A candidate may nominate for one or more vacant positions on the committee.
-
-25.3 If insufficient nominations are received to fill all vacancies on the committee, the candidates nominated will be deemed to be elected and further nominations may be received at the annual general meeting.
-
-25.4 If the number of nominations received is equal to the number of vacancies to be filled, the persons nominated shall be deemed to be elected.
-
-25.5 If the number of nominations exceeds the number of vacancies to be filled, a ballot must be held.
+> 25 Election of officers and ordinary members of the committee
+> 
+> 25.1 To be considered valid, nominations of candidates for election as officers of the association or as ordinary members of the committee must be
+> 
+> 25.1.1 made to the secretary by electronic transmission; and
+> 
+> 25.1.2 transmitted to the secretary not less than 7 days before the date fixed for the holding of the annual elections; and
+> 
+> 25.1.3 endorsed by at least one current officer of the association or ordinary member of the committee.
+> 
+> 25.2 A candidate may nominate for one or more vacant positions on the committee.
+> 
+> 25.3 If insufficient nominations are received to fill all vacancies on the committee, the candidates nominated will be deemed to be elected and further nominations may > be received at the annual general meeting.
+> 
+> 25.4 If the number of nominations received is equal to the number of vacancies to be filled, the persons nominated shall be deemed to be elected.
+> 
+> 25.5 If the number of nominations exceeds the number of vacancies to be filled, a ballot must be held.
 
 In relation to rule 25.1.3, I will endorse the nomination of any member in good standing (in the absence of endorsement from another committee member).
 
