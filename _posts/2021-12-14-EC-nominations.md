@@ -49,8 +49,8 @@ The Rules of the association relevant to this process are:
 
 In relation to rule 25.1.3, I will endorse the nomination of any member in good standing (in the absence of endorsement from another committee member).
 
-In relation to rule 25.5, if a ballot is necessary, it will be run electronically by OUP. To vote in such an election, it is necessary to be a member of the association in good standing (i.e. a financial member).
+In relation to rule 25.5, if a ballot is necessary, it will be run electronically by OUP. To vote in such an election, it is necessary to be a member of the association in good standing (i.e., a financial member).
 
-Although rule 25.1.2 allows for nominations up to 7 days before the election date, it would greatly assist OUP to have details of as many nominees as possible earlier than that date. In addition to sending your formal nomination to me, please also send a short candidate's statement (c150 words) which will be made available online. 
+Although rule 25.1.2 allows for nominations up to 7 days before the election date, it would greatly assist OUP to have details of as many nominees as possible earlier than that date. In addition to sending your formal nomination to me, please also send a short candidate's statement (ca. 150 words) which will be made available online. 
 
-The election will take place between January 31 2022 and February 4 2022; members eligible to vote will receive details from OUP before the election opens. Prospective candidates are welcome to contact Simon Musgrave or Tully Barnett(aaDH communications manager) at any time.
+The election will take place between January 31 2022 and February 4 2022; members eligible to vote will receive details from OUP before the election opens. Prospective candidates are welcome to contact Simon Musgrave or Tully Barnett (aaDH communications manager) at any time.
