@@ -41,7 +41,7 @@ The Rules of the association relevant to this process are:
 > 
 > 25.2 A candidate may nominate for one or more vacant positions on the committee.
 > 
-> 25.3 If insufficient nominations are received to fill all vacancies on the committee, the candidates nominated will be deemed to be elected and further nominations may > be received at the annual general meeting.
+> 25.3 If insufficient nominations are received to fill all vacancies on the committee, the candidates nominated will be deemed to be elected and further nominations may be received at the annual general meeting.
 > 
 > 25.4 If the number of nominations received is equal to the number of vacancies to be filled, the persons nominated shall be deemed to be elected.
 > 
