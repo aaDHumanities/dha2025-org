@@ -10,7 +10,7 @@ tags:
 author: TB
 ---
 
-The 2021 Digital Humanities Australia conference, the biennial conference of the Australasian Association for Digital Humanities, was hosted by Canterbury University with the theme 'Ka Renarena Te Taukaea | Creating Communities'.
+The 2021 Digital Humanities Australia conference, the biennial conference of the Australasian Association for Digital Humanities, was hosted by Canterbury University with the theme 'Ka Renarena Te Taukaea \| Creating Communities'.
 
 While the quality of the research shared across the whole conference was very high, the conference committee awarded a series of highly commended papers as outlined below:
 
