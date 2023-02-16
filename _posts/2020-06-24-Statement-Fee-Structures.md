@@ -1,6 +1,6 @@
 ---
 title: "Minister Tehan’s proposal undercuts the skills and qualities Australia needs for its future"
-last_modified_at: 2018-10-30
+last_modified_at: 2020-06-24
 categories:
   - Post
   - Statement
