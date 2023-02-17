@@ -9,7 +9,7 @@ tags:
 author: TB
 ---
 
-**A message from Simon Musgrave, aaDH Secretary:**
+*A message from Simon Musgrave, aaDH Secretary:*
 
 The terms of several members of the aaDH Executive Committee are concluding.
 

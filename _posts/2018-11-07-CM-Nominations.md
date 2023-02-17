@@ -9,7 +9,7 @@ tags:
 author: TB
 ---
 
-**A message from Simon Musgrave, aaDH Secretary:**
+*A message from Simon Musgrave, aaDH Secretary:*
 
 The terms of several members of the aaDH Committee of Management end this month, November 2018.
 
