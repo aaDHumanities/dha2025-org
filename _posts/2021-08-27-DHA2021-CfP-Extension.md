@@ -9,6 +9,7 @@ tags:
   - DHA2021
 author: TB
 ---
+
 ## The DHA2021 Call for Proposals deadline has been extended to 27 September 2021
 
 **The [Australasian Association for Digital Humanities](https://aadh.au/) (aaDH) is pleased to invite proposals for [DHA2021](http://dh.canterbury.ac.nz/dha2020/)** (our COVID-delayed conference formerly known as DHA2020).
