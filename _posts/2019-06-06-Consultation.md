@@ -107,8 +107,7 @@ While such initiatives have some value, they appear largely aspirational, and ar
 
 Thank you again for the opportunity to respond to this consultation. If you have any questions regarding the contents of our submission, or would like to discuss, please contact Dr Mike Jones (m.jones@unimelb.edu.au) or the aaDH Secretariat (simon.musgrave@monash.edu).
 
-**Executive Committee**
-
+**Executive Committee**  
 **Australasian Association for Digital Humanities**
 
 ## References

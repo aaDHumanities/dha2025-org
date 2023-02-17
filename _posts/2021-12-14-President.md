@@ -13,9 +13,10 @@ At the end of #DHA2021 -- Digital Humanities Australasia, aaDH's biennial confer
 
 Here's some information about the new President of the Australasian Association for Digital Humanities:
 
-![image-center](../assets/images/rachel-hendery.webp Rachel Hendery){: .align-caption}
-
-Rachel Hendery
+![image-center](/assets/images/rachel-hendery.webp "Rachel Hendery"){: .align-center}
+<center>
+  Rachel Hendery
+</center>
 
 > I am Associate Professor of Digital Humanities at Western Sydney University. My background is in linguistics, and I work on language contact and change, particularly in the Pacific, and how new digital tools and techniques allow us to research these in new ways. My research interests include historical linguistics, contact linguistics, typology, mapping, simulation, virtual reality, and data visualisation.
 >
