@@ -2,6 +2,8 @@
 
 This is the aaDH website, a GitHub Pages site currently live at http://aahd.au/. 
 
+Content was transferred from the previous site (http://aa-dh.org/) with reorganisation and light editing in December 2022. 
+
 Maintained by Shawn Ross.
 
 ---
