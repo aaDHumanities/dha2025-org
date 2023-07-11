@@ -9,14 +9,14 @@ The Executive Committee is elected by a vote of aaDH members.
 
 ## Current Executive Committee
 
-- Associate Professor Rachel Hendery, Western Sydney University (President, co-opted 2022)
-- Dr Tully Barnett, Flinders University (Vice-President, 2022-24)
-- Dr Simon Musgrave, Monash University (Secretary, 2015-18; 2018-22)
-- Dr Tyne Daile Sumner, University of Melbourne (Communications Manager, 2022-24)
-- Dr Susan Ford, Independent Scholar (Treasurer, 2022-23)
-- Dr Terhi Nurmikko-Fuller, Australian National University (2022-23)
-- lexander Ritchie, University of Otago (2022-23)
-- Professor Shawn Ross, Macquarie University (2022-24)
+- Associate Professor Rachel Hendery, Western Sydney University (President, co-opted 2022-2023)
+- Dr Tully Barnett, Flinders University (Vice-President, 2022-25)
+- Dr Simon Musgrave, Monash University (Secretary, 2015-18; 2019-23)
+- Dr Tyne Daile Sumner, University of Melbourne (Communications Manager, 2022-25)
+- Dr Susan Ford, Independent Scholar (Treasurer, 2021-24)
+- Dr Terhi Nurmikko-Fuller, Australian National University (2021-24)
+- Alexander Ritchie, University of Otago (2022-25)
+- Professor Shawn Ross, Macquarie University (2021-24)
 
 ## Previous Committee members
 
