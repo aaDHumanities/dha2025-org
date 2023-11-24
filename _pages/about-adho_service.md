@@ -9,10 +9,11 @@ sidebar:
 ## aaDH members currently serving on ADHO committees
 
 - Awards Committee (Paul Arthur)
-- Communications Committee (Tully Barnett)
+- Communications Committee (Tyne Daile Sumner)
 - Conference Coordinating Committee (Rachel Hendery)
-- Constituent Organizations Board (Paul Millar)
+- Constituent Organizations Board (Tyne Daile Sumner)
 - Publications Committee (Mike Jones)
+- DH2024 Program Committee (Tully Barnett)
 
 <!---
 - Multilingualism/Multiculturalism Committee ()
