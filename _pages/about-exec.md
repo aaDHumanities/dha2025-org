@@ -26,7 +26,7 @@ The Executive Committee is elected by a vote of aaDH members.
 - Dr Katherine Bode, Australian National University (2011-14)*
 - Professor Hugh Craig, University of Newcastle (2011-14,President co-opted 2017-18)*
 - Dr Jason Ensor, University of Western Sydney (Communications Manager, 2014-15)
-- Dr Susan Ford, Australian National University (2018-20; Treasurer, 2021-23)
+- Dr Susan Ford, Independent Scholar (2018-20; Treasurer, 2021-23)
 - Dr Rahul K. Gairola, School of Arts, Murdoch University (2017-21)
 - Dr Brett D Hirsch, University of Western Australia (Treasurer, 2013-16)
 - Associate Professor Rachel Hendery, Western Sydney University (Treasurer, 2016-21; President-co-opted 2022-23)
