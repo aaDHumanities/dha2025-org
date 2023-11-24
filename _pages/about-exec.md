@@ -12,7 +12,7 @@ The Executive Committee is elected by a vote of aaDH members.
 - Dr Tyne Daile Sumner, University of Melbourne (President, 2024-26)
 - Associate Professor Tully Barnett, Flinders University (Vice-President, 2022-25)
 - Dr Craig Bellamy, Independent Scholar (Secretary, 2024-26)
-- Dr Susan Ford, Independent Scholar (Treasurer, 2021-24)
+- Professor Paul Arthur, Edith Cowan University (2024-26)
 - Dr Terhi Nurmikko-Fuller, Australian National University (2021-24)
 - Alexander Ritchie, University of Otago (2022-25)
 - Professor Shawn Ross, Macquarie University (2021-24)
@@ -26,7 +26,7 @@ The Executive Committee is elected by a vote of aaDH members.
 - Dr Katherine Bode, Australian National University (2011-14)*
 - Professor Hugh Craig, University of Newcastle (2011-14,President co-opted 2017-18)*
 - Dr Jason Ensor, University of Western Sydney (Communications Manager, 2014-15)
-- Dr Susan Ford, Australian National University (2018-22)
+- Dr Susan Ford, Australian National University (2018-20; Treasurer, 2021-23)
 - Dr Rahul K. Gairola, School of Arts, Murdoch University (2017-21)
 - Dr Brett D Hirsch, University of Western Australia (Treasurer, 2013-16)
 - Associate Professor Rachel Hendery, Western Sydney University (Treasurer, 2016-21; President-co-opted 2022-23)
