@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title               : "Australasian Association for Digital Humanities"
-subtitle            : "An Alliance of Digital Humanities Organisations member"
+subtitle            : 
 title_separator     : "-"
 name                : "Shawn Ross"
 email               : ""
@@ -27,7 +27,7 @@ url                 : "https://https://aadh-web.github.io/website/"
 baseurl             : # the subpath of your site, e.g. "/blog"
 repository          : "aaDH-web/website"
 teaser              : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                : "/assets/images/aaDH-small.png"
+logo                : "/assets/images/aaDH-med.png"
 masthead_title      : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs       : false # true, false (default)
 twitter_username    : "aaDHumanities"
