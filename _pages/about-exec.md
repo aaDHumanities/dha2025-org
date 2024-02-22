@@ -9,7 +9,7 @@ The Executive Committee is elected by a vote of aaDH members.
 
 ## Current Executive Committee
 
-- Dr Tyne Daile Sumner, University of Melbourne (President, 2024-26)
+- Dr Tyne Daile Sumner, Australian National University (President, 2024-26)
 - Associate Professor Tully Barnett, Flinders University (Vice-President, 2022-25)
 - Dr Craig Bellamy, Independent Scholar (Secretary, 2024-26)
 - Professor Paul Arthur, Edith Cowan University (2024-26)
