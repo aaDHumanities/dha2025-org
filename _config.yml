@@ -33,6 +33,7 @@ masthead_title      : # overrides the website title displayed in the masthead, u
 twitter_username    : "aaDHumanities"
 github_username     : "aaDH-web"
 search: true
+future: true
 
 # Build settings
 markdown: kramdown
