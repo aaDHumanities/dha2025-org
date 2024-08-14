@@ -9,7 +9,7 @@ tags:
 author: TS
 ---
 
-Algorithmic Humanities, 16 Oct, NFSA Studio (15 spaces) 
+Algorithmic Humanities, 16 October 2024, NFSA Studio (15 spaces) 
 
 Details coming soon! 
 
