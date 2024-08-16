@@ -1,5 +1,5 @@
 ---
-title: "Title of test post"
+title: "Communications Manager"
 last_modified_at: 2024-08-16
 categories:
   - Post
@@ -9,23 +9,7 @@ tags:
 author: TS.
 ---
 
-This is the body of the test post
+aaDH will soon be advertising for a new Communications Manager (1 year term)
 
-List
-* item 1
-* item 2
-* item 3
-
-Numbered list
-1. item 1
-2. item 2
-
-# heading 1
-## heading 2
-### heading 3
-
-*this is italics* 
-
-**this is bold**
 
 Please contact  [Tyne Daile Sumner](mailto:tyne.sumner@anu.edu.au?subject=Fantastic%20Futures%20-%20Algorithmic%20Humanities). 
