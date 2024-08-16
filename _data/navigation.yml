@@ -33,8 +33,6 @@ about-nav:
 conference-nav:
     - title: aaDH Conferences
       children:
-        - title: "DHA2023"
-          url: /conferences/dha2023/
         - title: "DHA2021"
           url: /conferences/dha2021/
         - title: "DHA2018"

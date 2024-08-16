@@ -10,6 +10,8 @@ The Australasian Association for Digital Humanities Incorporated
 
 **Organisation number:** A0057485X
 
-**email:** [aaDH Secretariat](mailto:simon.musgrave@monash.edu)
+**email:** [aaDH Secretariat](mailto:tyne.sumner@anu.edu.au?subject=aaDH%20Secretariat)
 
-**Twitter:** @aaDHumanties
+**X:** [@aaDHumanties](https://x.com/aaDHumanities)
+
+**Bluesky:** [aadh.bsky.social](https://bsky.app/profile/aadh.bsky.social)

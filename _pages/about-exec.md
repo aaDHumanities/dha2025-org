@@ -13,12 +13,13 @@ The Executive Committee is elected by a vote of aaDH members.
 - Associate Professor Tully Barnett, Flinders University (Vice-President, 2022-25)
 - Dr Craig Bellamy, Independent Scholar (Secretary, 2024-26)
 - Professor Paul Arthur, Edith Cowan University (2024-26)
-- Dr Terhi Nurmikko-Fuller, Australian National University (2021-24)
 - Alexander Ritchie, University of Otago (2022-25)
 - Professor Shawn Ross, Macquarie University (2021-24)
+- Dr Michael Falk, University of Melbourne (2024-2025)
 
 ## Previous Committee members
 
+- Dr Terhi Nurmikko-Fuller, Australian National University (2021-24)
 - Professor Paul Arthur, Edith Cowan University (Founding President 2011-15, Ex officio member 2015-17, Vice-President, 2017-21)*
 - Dr Tully Barnett, Flinders University (co-opted 2015-17, Communications Manager, 2017-21)
 - Professor Linda Barwick, University of Sydney (2013-16)
