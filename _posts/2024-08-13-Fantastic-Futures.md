@@ -1,5 +1,5 @@
 ---
-title: "aaDH Satellite event at Fantastic Futures, Canberra"
+title: "Algorithmic Humanities (aaDH Satellite event at Fantastic Futures, Canberra)"
 last_modified_at: 2024-08-13
 categories:
   - Post
