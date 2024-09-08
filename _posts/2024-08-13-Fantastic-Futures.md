@@ -12,6 +12,7 @@ author: TS
 The Algorithmic Humanities
 
 4pm - 5pm Wednesday 16 October 2024 
+
 NFSA Studio (places limited) 
 
 Panelists:
