@@ -21,6 +21,7 @@ Panelists:
 
 - Professor James Smithies (Director, HASS Digital Research Hub, Australian National University)
 - Associate Professor Tully Barnett (Creative Industries, College of Humanities, Arts & Social Sciences, Flinders University)
+- Professor Mitchell Whitelaw (Head of School of Art and Design, Australian National University)
 - Dr Jessica Herrington (Futures Specialist, Neuroscientist & Artist, School of Cybernetics, Australian National University)
 - Junran Lei (Senior Research Software Engineer, HASS Digital Research Hub, Australian National University)
 
