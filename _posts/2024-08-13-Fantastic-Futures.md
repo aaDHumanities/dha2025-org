@@ -13,7 +13,8 @@ The Algorithmic Humanities
 
 4pm - 5pm Wednesday 16 October 2024 
 
-NFSA Studio (places limited) 
+Sir Roland Wilson Building, Room 2.02 
+Australian National University
 
 Chaired by: Dr Tyne Daile Sumner (ARC DECRA Fellow, English & Digital Humanities, Australian National University)
 
