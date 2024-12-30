@@ -6,7 +6,7 @@ categories:
 tags:
   - Events
   - Conferences
-author: TS.
+author: TS
 ---
 
 aaDH is seeking a Communications Manager to join our Executive Committee! 
