@@ -1,45 +1,17 @@
 main:
-  - title: "About"
-    url: /about/
-  - title: "Join"
-    url: /join/
   - title: "News"
     url: /posts/
-  - title: "Conferences"
-    url: /conferences/
+  - title: "Submissions"
+    url: /submissions/
+  - title: "Conference info"
+    url: /info/keynotes/
   - title: "Resources"
-    url: /resources/
+    url: /resources/  
 
 # 'About' sidebar
 
-about-nav:
-  - title: About the aaDH
-    children:
-      - title: "Sponsors & Affiliates"
-        url: /about/sponsors/
-      - title: "Aims"
-        url: /about/aims/
-      - title: "Executive Committee"
-        url: /about/exec/
-      - title: "ADHO Service"
-        url: /about/adho_service/
-      - title: "Web Archive"
-        url: /about/archive/
-      - title: "Mailing list"
-        url: /about/group/
-      - title: "Contact"
-        url: /about/contact/
-
-conference-nav:
-    - title: aaDH Conferences
-      children:
-        - title: "DHA2021"
-          url: /conferences/dha2021/
-        - title: "DHA2018"
-          url: /conferences/dha2018/
-
 posts-nav:
-    - title: aaDH news
+    - title: DHA2025 news
       children:
         - title: "All Posts"
           url: /posts/all/
@@ -48,22 +20,26 @@ posts-nav:
         - title: "Posts by Tag"
           url: /posts/tags/
 
-resource-nav:
-  - title: DH Resources
+submissions-nav:
+  - title: Abstract submission
     children:
-      - title: "Associations"
-        url: /resources/assoc/
-      - title: "Publications"
-        url: /resources/pub/
-      - title: "Events"
-        url: /resources/event/
-      - title: "Projects"
-        url: /resources/project/
-      - title: "Infrastructure"
-        url: /resources/infra/
-      - title: "Key resources"
-        url: /resources/key/      
-      - title: "Programs"
-        url: /resources/program/
-      - title: "Blogs"
-        url: /resources/blog/
+      - title: "All submissions"
+        url: /submissions/
+
+info-nav:
+    - title: DHA2025 information
+      children:
+        - title: "Keynote Speakers"
+          url: /info/keynotes/
+        - title: "Organising Committee"
+          url: /info/organisers/
+        - title: "Supporters"
+          url: /info/supporters/
+        - title: "Contact us" 
+          url: /info/contact/
+
+resource-nav:
+  - title: References & Resources
+    children:
+      - title: "All resources"
+        url: /resources/
