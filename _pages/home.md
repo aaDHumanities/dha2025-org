@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Digital Archipelegos"
+title: "Digital Archipelagos"
 author: aaDH
 excerpt: "**Digital Humanities Australasia 2025**, 2-5 December, Australian National University, Canberra (Ngambri)"
 header:
