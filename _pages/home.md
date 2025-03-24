@@ -2,7 +2,7 @@
 permalink: /
 title: "Digital Archipelagos"
 author: aaDH
-excerpt: "**Digital Humanities Australasia 2025**, 2-5 December, Australian National University, Canberra (Ngambri)"
+excerpt: "**Digital Humanities Australasia 2025**, 2-5 December Australian National University, Canberra (Ngambri)"
 header:
   overlay_image: /assets/images/digital-archipelagos.png
   overlay_filter: 0.25 # same as adding an opacity of 0.25 to a black background
