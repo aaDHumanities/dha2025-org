@@ -11,7 +11,7 @@ sidebar:
 * **Craig Bellamy** (La Trobe University)
 * **Shawn Ross** (Macquarie University)
 * **Michael Falk** (University of Melbourne)
-* **Alexander** Ritchie (University of Otago)
+* **Alexander Ritchie** (University of Otago)
 * **Alex Shermon** (University of Melbourne)
 * **James Smithies** (Australian National University)
 * **Mary Fisell** (Australian Research Data Commons)
