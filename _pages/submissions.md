@@ -1,5 +1,5 @@
 ---
-title: "Submit and abstract"
+title: "Submit an abstract"
 permalink: /submissions/
 author: aaDH
 sidebar:
