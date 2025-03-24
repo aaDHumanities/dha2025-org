@@ -10,6 +10,7 @@ sidebar:
 * **Tully Barnett** (Flinders University)
 * **Craig Bellamy** (La Trobe University)
 * **Shawn Ross** (Macquarie University)
+* **Paul Arthur** (Edith Cowan University)
 * **Michael Falk** (University of Melbourne)
 * **Alexander Ritchie** (University of Otago)
 * **Alex Shermon** (University of Melbourne)
