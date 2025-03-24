@@ -26,4 +26,4 @@ Abstracts are to be [submitted via ConfTool](https://www.conftool.org/dha2025/) 
 
 Notifications of acceptance will be communicated by **13th June**.
 
-**Note**: For the allied event on 2-3 December “Re-Defining Open Social Scholarship in an Age of Generative ‘Intelligence’” please see the CFP for the Canadian-Australian Partnership for Open Scholarship (CAPOS). [Submissions for the CAPOS event should be submitted separately](). 
+**Note**: For the allied event on 2-3 December “Re-Defining Open Social Scholarship in an Age of Generative ‘Intelligence’” please see the CFP for the Canadian-Australian Partnership for Open Scholarship (CAPOS). [Submissions for the CAPOS event should be submitted separately](https://inke.ca/re-defining-open-social-scholarship-in-an-age-of-generative-intelligence/). 
