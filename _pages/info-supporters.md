@@ -12,6 +12,4 @@ sidebar:
 
 [The Australian National University, Canberra](https://www.anu.edu.au/)
 
-[The National Film and Sound Archive of Australia (NFSA), Canberra](https://www.nfsa.gov.au/)
-
 [The Univeristy of Melbourne, Melbourne](https://www.unimelb.edu.au/)
