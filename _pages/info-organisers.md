@@ -16,5 +16,5 @@ sidebar:
 * **Alex Shermon** (University of Melbourne)
 * **James Smithies** (Australian National University)
 * **Mary Fisell** (Australian Research Data Commons)
-* **Ingrid Mason** (National Film and Sound Archive of Australia)
 * **Nguyen Bui** (Australian National University)
+* **Ingrid Mason** 
