@@ -28,7 +28,7 @@ The conference will draw on environmental and cultural dynamics to investigate t
 
 Like the diverse archipelagos that inspire our theme, we seek to engage the DH community around new topics and pathways, with papers and workshops from the wider arts, humanities, social sciences. We welcome contributions from scholars, librarians, archivists, artists, writers, practitioners, performers, activists, and others engaged with the intersections of Digital Humanities, sustainability, and social justice. We especially encourage submissions that propose novel, interdisciplinary frameworks and methods in DH and cognate fields. 
 
-Our conference also warmly welcome colleagues from the wider Galleries, Libraries, Archives, and Museums (GLAM) sector. The [National Film and Sound Archive of Australia](https://www.nfsa.gov.au/) (NFSA) and the DHA Organising Committee invite members of the [Artificial Intelligence for Libraries, Archives, Museums](https://github.com/AI4LAM) (AI4LAM) community, practitioners in GLAM, and Information and Computer Science researchers in Higher Education to submit proposals for presentations and workshops
+Our conference also warmly welcome colleagues from the wider Galleries, Libraries, Archives, and Museums (GLAM) sector. The DHA Organising Committee invite members of the [Artificial Intelligence for Libraries, Archives, Museums](https://github.com/AI4LAM) (AI4LAM) community, practitioners in GLAM, and Information and Computer Science researchers in Higher Education to submit proposals for presentations and workshops
 
 ## We offer the following as moorings for our conference across 3 themes:
 
