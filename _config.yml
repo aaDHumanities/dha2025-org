@@ -13,25 +13,23 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title               : "Australasian Association for Digital Humanities"
+title               : "Digital Humanities Australasia 2025"
 subtitle            : ""
 title_separator     : "-"
 name                : "Shawn Ross"
-email               : ""
+email               : "shawn.ross@ardc.edu.au"
 description: >- # this means to ignore newlines until "locale:"
-  The website of the Australasian Association for Digital Humanities (aaDH), 
-  promoting digital humanities research in Australia, Aotearoa New Zealand, 
-  and the Pacific.
+  The website Digital Humanities Australasia (DHA) 2025, the annual conference of the Australasian Associaton for Digital Humanities (aaDH), to be held in Canberra (Ngambri) on 2-5 December.
 locale              : "en-AU"
-url                 : "https://https://aadh-web.github.io/website/"
+url                 : "https://dha25.org/"
 baseurl             : # the subpath of your site, e.g. "/blog"
-repository          : "aaDH-web/website"
+repository          : "aaDHumanities/dha25-org"
 teaser              : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                : "/assets/images/aaDH-small.png"
 masthead_title      : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs       : false # true, false (default)
 twitter_username    : "aaDHumanities"
-github_username     : "aaDH-web"
+github_username     : "aaDHumanities"
 search: true
 future: true
 
