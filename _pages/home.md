@@ -25,7 +25,9 @@ Archipelagos can also signify the coming together of disciplines, ideas and meth
 **KEYNOTE SPEAKERS**
 
 **Jill Walker Rettberg** (Professor of Digital Culture & Co-Director of the Centre for Digital Narrative, University of Bergen)
+
 **Kirsten Thorpe** (Associate Professor, Indigenous Archives and Data Stewardship Hub, University of Technology Sydney)
+
 **Kathryn Gledhill-Tucker** (Nyungar technologist, writer, & digital rights activist)
 
 **Digital Archipelagos** invites submissions for a four-day interdisciplinary Digital Humanities conference on the lands of the Ngunnawal and Ngambri people at The Australian National University, hosted by the HASS Digital Research Hub and the Research School of Humanities and the Arts. The main conference will run from midday on 3 December, with pre-meetings, workshops and allied events on 2 December, including the [Canadian Australian Partnership for Open Scholarship (CAPOS) gathering](https://inke.ca/re-defining-open-social-scholarship-in-an-age-of-generative-intelligence/). 
