@@ -28,7 +28,7 @@ Archipelagos can also signify the coming together of disciplines, ideas and meth
 
 >**Kirsten Thorpe** (Associate Professor, Indigenous Archives and Data Stewardship Hub, University of Technology Sydney)
 
->**Kathryn Gledhill-Tucker** (Nyungar technologist, writer, & digital rights activist)
+>**Kathryn Gledhill-Tucker** (Nyungar technologist, writer, & digital rights activist, Digital Rights Watch, Australia)
 
 # Details
 
