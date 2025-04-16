@@ -22,7 +22,7 @@ Archipelagos also serve our conference as a metaphor to spark dialogue about new
 
 Archipelagos can also signify the coming together of disciplines, ideas and methodologies in ways that honour local histories, languages, and cosmologies while advancing sustainable, community-informed projects in the digital arena. From ‘relation-oriented AI’ to ‘embodied knowledge archives,’ our conference theme foregrounds situatedness, proximity, and place as indispensable foci for future DH research and practice (Brown, Whaanga & Lewis 2023; Alliata et al. 2024).
 
-**KEYNOTE SPEAKERS**
+# Keynote Speakers
 
 >**Jill Walker Rettberg** (Professor of Digital Culture & Co-Director of the Centre for Digital Narrative, University of Bergen)
 
@@ -30,7 +30,7 @@ Archipelagos can also signify the coming together of disciplines, ideas and meth
 
 >**Kathryn Gledhill-Tucker** (Nyungar technologist, writer, & digital rights activist)
 
-**DETAILS**
+# Details
 
 **Digital Archipelagos** invites submissions for a four-day interdisciplinary Digital Humanities conference on the lands of the Ngunnawal and Ngambri people at The Australian National University, hosted by the HASS Digital Research Hub and the Research School of Humanities and the Arts. The main conference will run from midday on 3 December, with pre-meetings, workshops and allied events on 2 December, including the [Canadian Australian Partnership for Open Scholarship (CAPOS) gathering](https://inke.ca/re-defining-open-social-scholarship-in-an-age-of-generative-intelligence/). 
 
