@@ -8,8 +8,10 @@ header:
   overlay_filter: 0.25 # same as adding an opacity of 0.25 to a black background
   caption: "'Digital Archipelagos' by [Britt Amell](https://www.brittanyamell.ca/)"
   actions:
-    - label: "Lastest news"
+    - label: "Latest news"
       url: "/posts/"
+    - label: "Submit (via Conftool)"
+      url: "https://www.conftool.org/dha2025/"
 layout: splash
 classes: wide
 ---
@@ -21,6 +23,8 @@ The Australasian region is home to myriad archipelagos with deep significance, f
 Archipelagos also serve our conference as a metaphor to spark dialogue about new directions and approaches in the Digital Humanities. They inspire us to conceptualise the fragmentation, clustering, dispersion, and interconnection of data in the Digital Humanities in discussions that prioritise local experiences and networks to challenge dominant narratives. In an age of algorithmic ubiquity, we aim to examine how seemingly isolated ‘islands’ of knowledge can remain distinct but intricately connected across evolving global contexts. 
 
 Archipelagos can also signify the coming together of disciplines, ideas and methodologies in ways that honour local histories, languages, and cosmologies while advancing sustainable, community-informed projects in the digital arena. From ‘relation-oriented AI’ to ‘embodied knowledge archives,’ our conference theme foregrounds situatedness, proximity, and place as indispensable foci for future DH research and practice (Brown, Whaanga & Lewis 2023; Alliata et al. 2024).
+
+[How to submit an abstract](/submissions)
 
 # Keynote Speakers
 

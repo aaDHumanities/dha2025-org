@@ -72,9 +72,12 @@ plugins:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/aaDHumanities/"
+    # - label: "Twitter"
+      # icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/aaDHumanities/"
+    - label: "BlueSky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/aadh.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/aaDHumanities/"
