@@ -22,8 +22,8 @@ Please submit abstracts of **250 words** responding to the conference topics or 
 * **Workshop proposals (half day)**: present introductions to a specific software approach, method, or theoretical framework/approach. (NB. Abstracts for workshops should be 500 words and include a proposed structure/outline of the session)
 * **Birds of a Feather (BoF) (60 minutes)**: an informal discussion devoted to a specific topic, new idea, or conceptual/theoretical theme. Participants have a shared interest in exploring a theme, without any formal agenda
 
-Abstracts are to be [submitted via ConfTool](https://www.conftool.org/dha2025/) by **9th May**.
+Abstracts are to be [submitted via ConfTool](https://www.conftool.org/dha2025/) by **Friday 6th June 11.55pm (AoE)**
 
-Notifications of acceptance will be communicated by **13th June**.
+Notifications of acceptance will be communicated by **Friday 11th July**.
 
 **Note**: For the allied event on 2-3 December “Re-Defining Open Social Scholarship in an Age of Generative ‘Intelligence’” please see the CFP for the Canadian-Australian Partnership for Open Scholarship (CAPOS). [Submissions for the CAPOS event should be submitted separately](https://inke.ca/re-defining-open-social-scholarship-in-an-age-of-generative-intelligence/). 
