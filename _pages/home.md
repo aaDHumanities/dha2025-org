@@ -24,6 +24,8 @@ Archipelagos also serve our conference as a metaphor to spark dialogue about new
 
 Archipelagos can also signify the coming together of disciplines, ideas and methodologies in ways that honour local histories, languages, and cosmologies while advancing sustainable, community-informed projects in the digital arena. From ‘relation-oriented AI’ to ‘embodied knowledge archives,’ our conference theme foregrounds situatedness, proximity, and place as indispensable foci for future DH research and practice (Brown, Whaanga & Lewis 2023; Alliata et al. 2024).
 
+**Abstracts due Friday 6th June 11.55pm (AoE)**
+
 [How to submit an abstract](/submissions)
 
 # Keynote Speakers
