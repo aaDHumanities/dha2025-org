@@ -25,6 +25,8 @@ submissions-nav:
     children:
       - title: "All submissions"
         url: /submissions/
+      - title: "Bursary applications"
+        url: /info/bursaries
 
 info-nav:
     - title: DHA2025 information
@@ -37,6 +39,8 @@ info-nav:
           url: /info/supporters/
         - title: "Contact us" 
           url: /info/contact/
+        - title: "Early Career Bursaries"
+          url: /info/bursaries
 
 resource-nav:
   - title: References & Resources
