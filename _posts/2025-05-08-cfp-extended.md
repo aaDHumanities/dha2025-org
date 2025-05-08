@@ -9,7 +9,7 @@ author: SR
 ---
 
 
-**The [Australasian Association for Digital Humanities](https://aadh.au/) (aaDH) is pleased to invite proposals for Digital Archipelagos [DHA2025](https://dha25.org/)** .
+**The [Australasian Association for Digital Humanities](https://aadh.au/) (aaDH) is pleased to invite proposals for Digital Archipelagos [DHA2025](https://dha25.org/)**.
 
 DHA 2025 will take place from 3-5 December 2025 held in the Canberra on the lands of the Ngunnawal and Ngambri people at the Australian National University. It will be hosted by the HASS Digital Research Hub and the College of Arts and Social Sciences.
 
