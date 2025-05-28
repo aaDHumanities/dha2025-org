@@ -8,6 +8,8 @@ sidebar:
 
 Please submit abstracts of **250 words** responding to the conference topics or other scholarly or creative questions raised by our conference theme.
 
+**Early Career Bursaries:** If you are a postgraduate student, early career researcher, or early in your industry career, please consider applying for one of 10 early career bursaries to support your attendance at the conference. Please see [the bursaries page]({% link _pages/info-bursaries.md %}).
+
 ## We welcome the following submissions
 
 ### Posters, papers and panels:
